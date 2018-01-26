@@ -9,9 +9,6 @@
     }
   ],
   "minimum-stability": "dev",
-  "require": {
-    "laravelcollective/html": "^5.4.0"
-  },
   "autoload": {
     "psr-4": {
       "gndlovu\\LaravelApi\\": "src/"
